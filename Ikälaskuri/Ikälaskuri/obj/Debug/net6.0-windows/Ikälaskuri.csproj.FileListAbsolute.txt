@@ -1,0 +1,17 @@
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\bin\Debug\net6.0-windows\Ikälaskuri.exe
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\bin\Debug\net6.0-windows\Ikälaskuri.deps.json
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\bin\Debug\net6.0-windows\Ikälaskuri.runtimeconfig.json
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\bin\Debug\net6.0-windows\Ikälaskuri.dll
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\bin\Debug\net6.0-windows\Ikälaskuri.pdb
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.csproj.AssemblyReference.cache
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.IkaForm.resources
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.csproj.GenerateResource.cache
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.AssemblyInfoInputs.cache
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.AssemblyInfo.cs
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.csproj.CoreCompileInputs.cache
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.dll
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\refint\Ikälaskuri.dll
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.pdb
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\Ikälaskuri.genruntimeconfig.cache
+C:\Users\spann\source\repos\Ikälaskuri\Ikälaskuri\obj\Debug\net6.0-windows\ref\Ikälaskuri.dll
