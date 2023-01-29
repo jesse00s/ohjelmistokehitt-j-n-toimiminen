@@ -1,0 +1,18 @@
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\bin\Debug\net6.0-windows\Nopan heitto.exe
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\bin\Debug\net6.0-windows\Nopan heitto.deps.json
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\bin\Debug\net6.0-windows\Nopan heitto.runtimeconfig.json
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\bin\Debug\net6.0-windows\Nopan heitto.dll
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\bin\Debug\net6.0-windows\Nopan heitto.pdb
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.csproj.AssemblyReference.cache
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan_heitto.NopanHeitto.resources
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan_heitto.Properties.Resources.resources
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.csproj.GenerateResource.cache
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.AssemblyInfoInputs.cache
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.AssemblyInfo.cs
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.csproj.CoreCompileInputs.cache
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.dll
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\refint\Nopan heitto.dll
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.pdb
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\Nopan heitto.genruntimeconfig.cache
+C:\Users\spann\source\repos\Nopan heitto\Nopan heitto\obj\Debug\net6.0-windows\ref\Nopan heitto.dll
