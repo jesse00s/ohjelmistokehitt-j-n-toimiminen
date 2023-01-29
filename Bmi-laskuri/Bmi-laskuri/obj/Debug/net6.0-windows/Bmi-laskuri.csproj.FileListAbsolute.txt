@@ -1,0 +1,17 @@
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\bin\Debug\net6.0-windows\Bmi-laskuri.exe
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\bin\Debug\net6.0-windows\Bmi-laskuri.deps.json
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\bin\Debug\net6.0-windows\Bmi-laskuri.runtimeconfig.json
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\bin\Debug\net6.0-windows\Bmi-laskuri.dll
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\bin\Debug\net6.0-windows\Bmi-laskuri.pdb
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.csproj.AssemblyReference.cache
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi_laskuri.BMIForm.resources
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.csproj.GenerateResource.cache
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.AssemblyInfoInputs.cache
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.AssemblyInfo.cs
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.csproj.CoreCompileInputs.cache
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.dll
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\refint\Bmi-laskuri.dll
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.pdb
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\Bmi-laskuri.genruntimeconfig.cache
+C:\Users\spann\source\repos\Bmi-laskuri\Bmi-laskuri\obj\Debug\net6.0-windows\ref\Bmi-laskuri.dll
