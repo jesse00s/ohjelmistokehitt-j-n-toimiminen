@@ -1,0 +1,17 @@
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\bin\Debug\net6.0-windows\Tehtävien tarkastus.exe
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\bin\Debug\net6.0-windows\Tehtävien tarkastus.deps.json
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\bin\Debug\net6.0-windows\Tehtävien tarkastus.runtimeconfig.json
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\bin\Debug\net6.0-windows\Tehtävien tarkastus.dll
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\bin\Debug\net6.0-windows\Tehtävien tarkastus.pdb
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.csproj.AssemblyReference.cache
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien_tarkastus.VastausLomakeForm.resources
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.csproj.GenerateResource.cache
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.AssemblyInfoInputs.cache
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.AssemblyInfo.cs
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.csproj.CoreCompileInputs.cache
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.dll
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\refint\Tehtävien tarkastus.dll
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.pdb
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\Tehtävien tarkastus.genruntimeconfig.cache
+C:\Users\spann\source\repos\Tehtävien tarkastus\Tehtävien tarkastus\obj\Debug\net6.0-windows\ref\Tehtävien tarkastus.dll
