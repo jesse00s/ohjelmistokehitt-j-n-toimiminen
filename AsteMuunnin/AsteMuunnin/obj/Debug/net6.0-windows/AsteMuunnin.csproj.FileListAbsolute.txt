@@ -1,0 +1,17 @@
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\bin\Debug\net6.0-windows\AsteMuunnin.exe
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\bin\Debug\net6.0-windows\AsteMuunnin.deps.json
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\bin\Debug\net6.0-windows\AsteMuunnin.runtimeconfig.json
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\bin\Debug\net6.0-windows\AsteMuunnin.dll
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\bin\Debug\net6.0-windows\AsteMuunnin.pdb
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.csproj.AssemblyReference.cache
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.AsteMuunninForm.resources
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.csproj.GenerateResource.cache
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.AssemblyInfoInputs.cache
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.AssemblyInfo.cs
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.csproj.CoreCompileInputs.cache
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.dll
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\refint\AsteMuunnin.dll
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.pdb
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\AsteMuunnin.genruntimeconfig.cache
+C:\Users\spann\source\repos\AsteMuunnin\AsteMuunnin\obj\Debug\net6.0-windows\ref\AsteMuunnin.dll
