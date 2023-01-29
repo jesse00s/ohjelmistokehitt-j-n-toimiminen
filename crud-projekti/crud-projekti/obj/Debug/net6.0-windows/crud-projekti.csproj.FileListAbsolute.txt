@@ -1,0 +1,17 @@
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\bin\Debug\net6.0-windows\crud-projekti.exe
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\bin\Debug\net6.0-windows\crud-projekti.deps.json
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\bin\Debug\net6.0-windows\crud-projekti.runtimeconfig.json
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\bin\Debug\net6.0-windows\crud-projekti.dll
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\bin\Debug\net6.0-windows\crud-projekti.pdb
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.csproj.AssemblyReference.cache
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud_projekti.Form1.resources
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.csproj.GenerateResource.cache
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.AssemblyInfoInputs.cache
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.AssemblyInfo.cs
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.csproj.CoreCompileInputs.cache
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.dll
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\refint\crud-projekti.dll
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.pdb
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\crud-projekti.genruntimeconfig.cache
+C:\Users\spann\source\repos\crud-projekti\crud-projekti\obj\Debug\net6.0-windows\ref\crud-projekti.dll
