@@ -1,0 +1,17 @@
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.exe
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.deps.json
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.runtimeconfig.json
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.dll
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.pdb
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.csproj.AssemblyReference.cache
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.KustannusForm.resources
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.csproj.GenerateResource.cache
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.AssemblyInfoInputs.cache
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.AssemblyInfo.cs
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.dll
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\refint\Autokululaskuri.dll
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.pdb
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.genruntimeconfig.cache
+C:\Users\spann\source\repos\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\ref\Autokululaskuri.dll
