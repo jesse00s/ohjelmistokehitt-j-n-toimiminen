@@ -1,0 +1,17 @@
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\bin\Debug\net6.0-windows\Suosikki nimi2.exe
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\bin\Debug\net6.0-windows\Suosikki nimi2.deps.json
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\bin\Debug\net6.0-windows\Suosikki nimi2.runtimeconfig.json
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\bin\Debug\net6.0-windows\Suosikki nimi2.dll
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\bin\Debug\net6.0-windows\Suosikki nimi2.pdb
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.csproj.AssemblyReference.cache
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki_nimi2.SuosikkiForm.resources
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.csproj.GenerateResource.cache
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.AssemblyInfoInputs.cache
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.AssemblyInfo.cs
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.csproj.CoreCompileInputs.cache
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.dll
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\refint\Suosikki nimi2.dll
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.pdb
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\Suosikki nimi2.genruntimeconfig.cache
+C:\Users\spann\source\repos\Suosikki nimi2\Suosikki nimi2\obj\Debug\net6.0-windows\ref\Suosikki nimi2.dll
